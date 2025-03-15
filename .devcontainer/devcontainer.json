@@ -1,0 +1,7 @@
+{
+    "name": "Kali Linux",
+    "image": "kalilinux/kali-rolling",
+    "features": {},
+    "postCreateCommand": "apt update && apt install -y kali-linux-headless"
+  }
+  
